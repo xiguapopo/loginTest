@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{paSq:function(_,t,a){"use strict";a.r(t);var o=a("q1tI"),E=a.n(o),d=a("tMyG");t.default=function(n){console.log(n);var l=n.location.state||{},u=l.data,e=u===void 0?{}:u;return E.a.createElement(d.a,null,"\u6B22\u8FCE\u6765\u5230\u9996\u9875,",e.userName)}}}]);
