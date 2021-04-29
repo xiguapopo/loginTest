@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{paSq:function(_,t,a){"use strict";a.r(t);var u=a("q1tI"),d=a.n(u),E=a("tMyG");t.default=function(n){console.log(n);var l=n.location.state||{},o=l.data,e=o===void 0?{}:o;return d.a.createElement(E.a,null,"\u6B22\u8FCE\u6765\u5230\u9996\u9875,admin")}}}]);
